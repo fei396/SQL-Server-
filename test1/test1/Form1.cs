@@ -19,7 +19,8 @@ namespace test1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            txt.Text = "this is a test.";
+            txt.Text = "this is a test.\r\n";
+            txt.Text += "start to test vision.\r\n";
         }
     }
 }
