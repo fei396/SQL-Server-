@@ -21,6 +21,7 @@ namespace test1
         {
             txt.Text = "this is a test.\r\n";
             txt.Text += "start to test vision.\r\n";
+            txt.Text += "start to test log&reset&reflog.\r\n";
         }
     }
 }
